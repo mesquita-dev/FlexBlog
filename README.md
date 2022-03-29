@@ -15,9 +15,9 @@ In addition, the use of the color palette and also the typography used was impor
 ## 🖥️ Demonstration of FlexBlog
 
 
-[![Screenshot_1](https://user-images.githubusercontent.com/91436176/160634993-0c4c7c7a-c313-4f41-9acb-ae3f0c4000f7.png "Clique para acessar o projeto")](https://bikcraft-mesquitadev.000webhostapp.com/ "Clique para acessar o projeto")
+[![Screenshot_1](https://user-images.githubusercontent.com/91436176/160634993-0c4c7c7a-c313-4f41-9acb-ae3f0c4000f7.png "Clique para acessar o projeto")](https://mesquita-dev.github.io/FlexBlog/ "Clique para acessar o projeto")
   
-You can view more and access the project with clicking [here](https://bikcraft-mesquitadev.000webhostapp.com/).
+You can view more and access the project with clicking [here](https://mesquita-dev.github.io/FlexBlog/).
 
 ---
 
